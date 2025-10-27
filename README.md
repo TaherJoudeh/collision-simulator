@@ -77,6 +77,16 @@ A physics engine built in Java that simulates realistic particle interactions wi
    java -cp bin program.Driver
    ```
 
+### Quick Start (Pre-compiled)
+If you want to provide a JAR file:
+1. Download Square.jar from [Releases](https://github.com/TaherJoudeh/collision-simulator/releases)
+2. Double-click the JAR file or run:
+   ```bash
+   java -jar ParticleCollisionSimulator.jar
+   ```
+
+
+
 ### Quick Start (IDE)
 
 1. Import the project into your IDE
