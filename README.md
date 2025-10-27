@@ -63,7 +63,7 @@ A physics engine built in Java that simulates realistic particle interactions wi
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/collision-simulator.git
+   git clone https://github.com/TaherJoudeh/collision-simulator.git
    cd collision-simulator
    ```
 
