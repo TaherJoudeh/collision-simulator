@@ -10,7 +10,7 @@ A physics engine built in Java that simulates realistic particle interactions wi
 ---
 
 ## 🎬 Demo
-<Soon>
+![2025-10-2719-35-37-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/48041532-3856-4570-b6e6-1c59c8b0c5b3)
 
 ---
 
