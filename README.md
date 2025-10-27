@@ -2,6 +2,7 @@
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)](https://www.java.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Release](https://img.shields.io/badge/Release-v1.0.0-orange)
 
 > Real-time 2D physics simulation demonstrating elastic collisions, gravity, friction, and momentum conservation
 
