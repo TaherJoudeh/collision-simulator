@@ -291,6 +291,6 @@ If you found this simulator interesting or useful for learning:
 ---
 
 <p align="center">
-<strong>Made with ☕ and curiosity about physics</strong><br>
+<strong>Made with ☕ and curiosity about physics | First year at college</strong><br>
 Simulating the universe, one collision at a time! ⚛️
 </p>
