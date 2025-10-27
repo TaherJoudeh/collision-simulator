@@ -266,8 +266,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - GitHub: [@TaherJoudeh](https://github.com/TaherJoudeh)
 
 **Project Timeline:**
-- **Square** (11th grade) - Game development fundamentals
-- **Collision Simulator** (College freshman) - Physics engine development
+*College freshman (1st Year)*
 
 ---
 
