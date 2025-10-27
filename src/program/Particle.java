@@ -234,8 +234,8 @@ public class Particle {
 			else velX = nextVelX;
 		}
 		
-		if (getX()+width > Window.WIDTH-1) {
-			position.setX(Window.WIDTH-width-1);
+		if (getX()+width > Window.WIDTH-18) {
+			position.setX(Window.WIDTH-width-18);
 			float nextVelX = calculateU1(mass, 10000000, velX, 0);
 			if (DrawFrame.energyLoss)
 				velX = nextVelX-(nextVelX*(mass*GRAVITY_ACCELERATION)*MUI_WALL);
@@ -251,8 +251,8 @@ public class Particle {
 			velY = nextVelY;
 		}
 		
-		if (getY()+height+32 > Window.HEIGHT) {
-			position.setY(Window.HEIGHT-height-32);
+		if (getY()+height+40 > Window.HEIGHT) {
+			position.setY(Window.HEIGHT-height-40);
 			float nextVelY = calculateU1(mass, 10000000, velY, 0);
 			
 			float energy = 0.5f*mass*velY*velY;

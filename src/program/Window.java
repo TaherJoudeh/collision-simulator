@@ -5,7 +5,7 @@ import javax.swing.JFrame;
 
 public class Window {
 
-	public final static int WIDTH = 1600, HEIGHT = 720;
+	public final static int WIDTH = 1280, HEIGHT = 720;
 	public final static Dimension WINDOW_DIMENSION = new Dimension(WIDTH, HEIGHT);
 	
 	public Window(String name, DrawFrame drawFrame) {

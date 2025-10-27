@@ -127,9 +127,9 @@ public class DrawFrame extends Canvas implements Runnable {
 		//LEFT
 		g.drawRect(0, 0, 1, Window.HEIGHT);
 		//RIGHT
-		g.drawRect(Window.WIDTH-8, 0, 1, Window.HEIGHT);
+		g.drawRect(Window.WIDTH-18, 0, 1, Window.HEIGHT);
 		//DOWN
-		g.drawRect(0, Window.HEIGHT-30, Window.WIDTH, 1);	
+		g.drawRect(0, Window.HEIGHT-40, Window.WIDTH, 1);	
 	}
 
 	public static void spawnMovingParticle() {
