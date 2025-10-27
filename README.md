@@ -219,19 +219,6 @@ Perfect for:
 
 ---
 
-## 🚧 Future Enhancements
-
-- [ ] Add spatial partitioning for better performance
-- [ ] Implement different particle shapes (squares, triangles)
-- [ ] Add particle attraction/repulsion forces
-- [ ] Create preset scenarios (orbital motion, Newton's cradle)
-- [ ] Add statistics display (total energy, momentum, collisions/sec)
-- [ ] Export simulation data for analysis
-- [ ] Mouse-based particle spawning and interaction
-- [ ] Save/load simulation states
-
----
-
 ## 📝 Physics References
 
 This simulation is based on:
